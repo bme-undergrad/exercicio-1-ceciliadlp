@@ -1,7 +1,7 @@
 function t = exercicio1(func,x0)
 
 % nao alterar: inicio
-es = 1;
+es = 0.01;
 imax = 20;
 % nao alterar: fim
 
